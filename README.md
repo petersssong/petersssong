@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi friend 👋
 
+- 🌱 I’m currently learning rust
+  
 <!--
 **petersssong/petersssong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
